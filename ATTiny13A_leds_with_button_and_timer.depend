@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557003873 source:/media/d3rbastl3r/Data/workspaces/codeblocks/init/ATTiny13A_leds_with_button_and_timer/main.cpp
+	<avr/io.h>
+	<avr/interrupt.h>
+
